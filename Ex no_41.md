@@ -4,11 +4,13 @@
 To write a function to find the peek of stack using array.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+Start.
+Define a variables.
+Write a function to find the peek of stack using array.
+Read the value using scanf.
+Ask the user to make an input.
+Print out the answer.
+End.
 
 ## Program:
 ```
@@ -19,7 +21,17 @@ RegisterNumber:
 */
 ```
 
+```
+int stack[100],top; 
+void peek() 
+{ 
+printf("%d",stack[top]); 
+}
+
+```
+
 ## Output:
+<img width="1129" height="528" alt="image" src="https://github.com/user-attachments/assets/2e05d3fb-141a-45d3-809b-894f4dc41c66" />
 
 
 
