@@ -20,6 +20,7 @@ Developed by:
 RegisterNumber:  
 */
 ```
+```
 int stack[100]; 
 int size=3,top=-1,i; 
 void push (float data) 
